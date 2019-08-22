@@ -1,0 +1,29 @@
+        h1 {
+            color: pink;
+            background-color: yellowgreen;
+        }
+
+        p {
+            color: purple;
+            font-size: 20px;
+            
+    
+        }
+        .azul {
+            color: blue;
+            font-style: oblique;
+        }
+        #linea {
+            color: #5545DD;
+    
+        }
+        ul {
+            background-color: plum;
+        }
+        span {
+            background-color: orchid;
+        }
+        .bold{
+            font-weight: bold;
+            font-style: italic;
+        }
